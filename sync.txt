@@ -1,3 +1,4 @@
 sync
 add 1 line in folder a
-add something in folder b
+add something in line 3 in folder a
+add something in line 4 in folder b
